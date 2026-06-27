@@ -5,13 +5,7 @@ env/
 __pycache__/
 *.pyc
 
-# Database files
-sql/*.db
-*.sqlite3
-
-# Large Data files
-data/raw/*.csv
-data/cleaned/*.csv
+# (Removed Database and Data rules so they can be pushed)
 
 # OS specific files
 .DS_Store
