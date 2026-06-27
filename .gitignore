@@ -1,0 +1,18 @@
+# Python environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Database files
+sql/*.db
+*.sqlite3
+
+# Large Data files
+data/raw/*.csv
+data/cleaned/*.csv
+
+# OS specific files
+.DS_Store
+Thumbs.db
